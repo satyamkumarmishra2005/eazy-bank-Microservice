@@ -25,7 +25,7 @@ Eazy Bank Microservices is designed to showcase the implementation of a scalable
 ## Architecture
 
 
-![Architecture Diagram](![image](https://github.com/user-attachments/assets/ad94cb4a-ecf1-4b3e-a14f-8c6b8f906702))
+![Architecture Diagram](https://github.com/satyamkumarmishra2005/eazy-bank-Microservice/blob/70ef8f8a4239e1722f45f18ac8d79f9be244ecfe/Microservices%20(1).png)
 
 ## Microservices
 
