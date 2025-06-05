@@ -1,7 +1,7 @@
 
 # Eazy Bank Microservices
 
-A modern banking application demonstrating microservices architecture using Java, Spring Boot, Spring Cloud, Docker, and Kubernetes.([github.com][1])
+A modern banking application demonstrating microservices architecture using Java, Spring Boot, Spring Cloud, Docker, and Kubernetes.
 
 ## Table of Contents
 
@@ -32,13 +32,13 @@ Eazy Bank Microservices is designed to showcase the implementation of a scalable
 * **Accounts Service**: Manages customer account information.
 * **Cards Service**: Handles credit/debit card details and operations.
 * **Loans Service**: Manages loan accounts and related transactions.
-* **Message Service**: Handles messaging functionalities within the application.([github.com][2], [github.com][3])
+* **Message Service**: Handles messaging functionalities within the application.
 
 ## Infrastructure Components
 
 * **Config Server**: Centralized configuration management for all microservices.
 * **Gateway Server**: API Gateway that routes requests to appropriate microservices.
-* **Kubernetes**: Container orchestration platform for deploying and managing microservices.([github.com][1])
+* **Kubernetes**: Container orchestration platform for deploying and managing microservices.
 
 ## Prerequisites
 
@@ -48,7 +48,7 @@ Before you begin, ensure you have the following installed:
 * Maven
 * Docker & Docker Compose
 * Kubernetes CLI (kubectl)
-* Helm (for Kubernetes package management)([github.com][4], [github.com][1])
+* Helm (for Kubernetes package management)
 
 ## Getting Started
 
@@ -157,11 +157,11 @@ Integrate monitoring tools like Prometheus and Grafana for real-time metrics and
 
 ## Security
 
-Implement security best practices:([arxiv.org][5])
+Implement security best practices:
 
 * **Authentication & Authorization**: Use OAuth2 and JWT for securing APIs.
 * **Secure Communication**: Ensure all inter-service communication is over HTTPS.
-* **Configuration Management**: Avoid hardcoding sensitive information; use secure vaults or environment variables.([github.com][1])
+* **Configuration Management**: Avoid hardcoding sensitive information; use secure vaults or environment variables.
 
 ## Contributing
 
